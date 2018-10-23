@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2Intent</string>
+    <string name="hint_message">Enter your message</string>
+    <string name="send">Send</string>
+    <string name="close">Close</string>
+    <string name="hint_received">Message Received</string>
+    <string name="hint_weight">Weight(kg)</string>
+    <string name="hint_height">Height(m)</string>
+    <string name="calcBMI">Calculate BMI</string>
+
+</resources>
